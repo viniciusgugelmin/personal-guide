@@ -1,1 +1,1 @@
-- [Either](https://github.com/viniciusgugelmin/personal-guide/tree/master/src/Javascript/Either)
+- [Throwing and catching exceptions beautifully](https://github.com/viniciusgugelmin/personal-guide/blob/master/src/Javascript/others/Throwing-And-Catching-Exceptions-Beautifully.md)
