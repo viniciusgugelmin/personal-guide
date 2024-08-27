@@ -1,1 +1,1 @@
-- [Javascript](https://github.com/viniciusgugelmin/personal-guide/tree/master/src/Javascript)
+- [Javascript](https://github.com/viniciusgugelmin/personal-guide/blob/master/src/Javascript/README.md)
